@@ -1,5 +1,7 @@
 # MiniCalculadoraApp
 
+Starting with Angular I have built this very basic mini calculator in terms of everything. I'm starting a course, excited to learn as much as possible. I am glad to have a certain level in JavaScript to be able to understand many things and I hope to be able to learn this technology in depth, which is also so in demand by the sector.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 ## Development server
