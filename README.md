@@ -1,29 +1,28 @@
-# MiniCalculadoraApp
 
-Starting with Angular I have built this very basic mini calculator in terms of everything. I'm starting a course, excited to learn as much as possible. I am glad to have a certain level in JavaScript to be able to understand many things and I hope to be able to learn this technology in depth, which is also so in demand by the sector.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
+## Trabajo Mini Calculadora App
 
-## Development server
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4. Como práctica para un curso que estoy realizando.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Comenzando con Angular, he creado esta mini calculadora muy básica en términos de todo. Estoy empezando un curso, con muchas ganas de aprender lo máximo posible. Me alegra tener cierto nivel en JavaScript para poder entender muchas cosas y espero poder aprender en profundidad esta tecnología que además es tan demandada por el sector.
 
-## Code scaffolding
+## Servidor de desarrollo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ejecute `ngserve` para un servidor de desarrollo. Navegue hasta `http://localhost:4200/`. La aplicación se recargará automáticamente si cambia alguno de los archivos fuente.
 
-## Build
+## Ver en vivo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[https://isaan86.github.io/miniCalculadoraApp/](https://isaan86.github.io/miniCalculadoraApp/)
 
-## Running unit tests
+## Tecnologías Utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- HTML5
+- CSS3
 
-## Running end-to-end tests
+## Contacto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Para cualquier pregunta o comentario, no dudes en contactarme:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- Nombre: Alexandra Ferrera Arenas
+- Perfil de Linkedin: https://www.linkedin.com/in/alexandra-ferrera-arenas/
+- Correo Electrónico: sandraferreraarenas@gmail.com
