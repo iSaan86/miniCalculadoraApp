@@ -1,6 +1,5 @@
 ## Trabajo Mini Calculadora App
 
-Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4. Como práctica para un curso que estoy realizando.
 
 Comenzando con Angular, he creado esta mini calculadora muy básica en términos de funcionalidad y diseño, pero representa el inicio de mi camino de aprendizaje en esta potente tecnología. Con una base sólida en JavaScript, estoy emocionada por profundizar en Angular y desarrollar aplicaciones más completas y dinámicas, alineadas con las demandas del sector.
 
