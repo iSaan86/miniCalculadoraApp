@@ -1,5 +1,3 @@
-
-
 ## Trabajo Mini Calculadora App
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4. Como práctica para un curso que estoy realizando.
@@ -17,6 +15,11 @@ Ejecute `ngserve` para un servidor de desarrollo. Navegue hasta `http://localhos
 - CSS3
 - TypeScript
 - Angular v18.0.4
+
+## Capturas de Pantalla
+
+![Captura app](public/assets/captura.png)
+
 
 ## Contacto
 
